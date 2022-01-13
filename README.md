@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aranacraft2
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning html and python
+- 📣 I’m looking foward to animations.py
+- 📫 Send feedback on any proyect i make
